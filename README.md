@@ -61,15 +61,13 @@ Login-SignUp/
 
 |-- .gitignore
 
-|-- app.js
-
 |-- .gitignore
 
 |-- package-lock.json
 
 |-- package.json
 
-|__ README.ms
+|__ README.md
 
 Usage
 
@@ -93,7 +91,7 @@ Just click the link.
 
 Contributing
 
-I welcome and appreciatecontributions to enhance this project! To contribute, please follow these steps:
+I welcome and appreciate contributions to enhance this project! To contribute, please follow these steps:
 
 
 Fork the repository.
@@ -107,7 +105,7 @@ Push to the branch: git push origin feature/your-feature-name.
 Open a pull request.
 
 Contact
-For any inquiries or suggestions, please contact Gentle Okhai at gentleokhai@gmail.com.
+For any inquiries or suggestions, please contact Gentle Okhai at gentleokhaiX@gmail.com.
 
 
 For Collaborations call +2349065070051
