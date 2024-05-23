@@ -43,25 +43,44 @@ Login-SignUp/
 |-- package-lock.json
 |-- package.json
 |__ README.ms
+
 Usage
+
 Login
+
 Open the app
+
 Enter your registered email and password.
+
 Click login to log in.
+
 Signup
+
 Fill out the registration form with your username, email, and password.
+
 Click Signup to create a new account.
+
 Forgot Password
+
 Just click the link.
+
 Contributing
-We welcome contributions to enhance this project! To contribute, please follow these steps:
+
+I welcome and appreciatecontributions to enhance this project! To contribute, please follow these steps:
+
 
 Fork the repository.
+
 Create a new branch: git checkout -b feature/your-feature-name.
+
 Make your changes and commit them: git commit -m 'Add new feature'.
+
 Push to the branch: git push origin feature/your-feature-name.
+
 Open a pull request.
 
 Contact
 For any inquiries or suggestions, please contact Gentle Okhai at gentleokhai@gmail.com.
+
+
 For Collaborations call +2349065070051
